@@ -1,12 +1,11 @@
 import java.util.Scanner;
 
-import java.util.Scanner;
 public class Foutoef {
 
 
 	Scanner s = new Scanner(System.in);
 
-	public static void (String[] args) {
+	public static void main(String[] args) {
 			Foutoef age = new Foutoef();
 			age.moto();
 
