@@ -4,7 +4,7 @@ public class Calculator {
 	
 	public static void main(String[] args) {
 
-		Calculator calc = new Calculator();
+		Calculator calc = new calculator();
 
 		int resultaat = calc.add(4, 8);
 	
@@ -28,9 +28,10 @@ public class Calculator {
 	
 	return a/b;
 	}
+
 }
 
 
-// Ja meneer dit trekt dus op niks. Moet dringend verbeterd worden.
-// Groetjes je gezeldige student ;)
+
+
 
