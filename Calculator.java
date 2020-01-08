@@ -8,7 +8,7 @@ public class Calculator {
 
 		int resultaat = calc.add(4, 8);
 	
-	System.out.println(calc.divide(5, 2));
+	System.out.println(calc.divide(5, 0));
 	}
 
 	
