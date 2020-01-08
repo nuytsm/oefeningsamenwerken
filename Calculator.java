@@ -1,9 +1,9 @@
-
+ 
 public class Calcultor {
 
 	
 	public static void main(String[] args) {
-
+ 
 		Calculator calc = new calculator();
 
 		int resultaat = calc.add(4, 8);
