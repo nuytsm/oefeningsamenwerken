@@ -17,7 +17,7 @@ public class Calcultor {
 	return a + b;
 	}
 	
-
+ 
 	public int divideintegers(int a, int b) {
 
 		return a/b;
