@@ -1,7 +1,5 @@
 package buh;
 
-import Java.util.Scanner;
-
 public class VanLennert{
 public int counter = 0;
 	
